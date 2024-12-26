@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\refint\Fl
 C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.pdb
 C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\ref\Flow control and function.dll
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.sourcelink.json

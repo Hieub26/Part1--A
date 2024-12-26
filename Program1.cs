@@ -1,6 +1,6 @@
 ﻿namespace Flow_control_and_function
 {
-    internal class Program
+    internal class Program1
     {
         static void Main(string[] args)
         {
