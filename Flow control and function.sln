@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow control and function", "Flow control and function.csproj", "{F2AB9362-9DB5-4B49-81A8-A2A677CA6619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Approximation calculation", "..\Approximation calculation\Approximation calculation.csproj", "{295EA1A7-7EE6-47FB-AB68-51B05A979B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2AB9362-9DB5-4B49-81A8-A2A677CA6619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AB9362-9DB5-4B49-81A8-A2A677CA6619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AB9362-9DB5-4B49-81A8-A2A677CA6619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AB9362-9DB5-4B49-81A8-A2A677CA6619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295EA1A7-7EE6-47FB-AB68-51B05A979B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295EA1A7-7EE6-47FB-AB68-51B05A979B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295EA1A7-7EE6-47FB-AB68-51B05A979B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295EA1A7-7EE6-47FB-AB68-51B05A979B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

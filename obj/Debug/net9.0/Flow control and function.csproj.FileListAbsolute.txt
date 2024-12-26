@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Flow control and function\bin\Debug\net9.0\Flow control and function.exe
+C:\Users\Admin\source\repos\Flow control and function\bin\Debug\net9.0\Flow control and function.deps.json
+C:\Users\Admin\source\repos\Flow control and function\bin\Debug\net9.0\Flow control and function.runtimeconfig.json
+C:\Users\Admin\source\repos\Flow control and function\bin\Debug\net9.0\Flow control and function.dll
+C:\Users\Admin\source\repos\Flow control and function\bin\Debug\net9.0\Flow control and function.pdb
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.dll
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\refint\Flow control and function.dll
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.pdb
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\Flow control and function.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Flow control and function\obj\Debug\net9.0\ref\Flow control and function.dll
